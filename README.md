@@ -26,9 +26,7 @@ Gosto de construir **aplicações web e mobile**, **APIs** e de entender **como 
 -   🔌 APIs com Node.js, NestJS e Prisma
 -   🗄️ Bancos de dados relacionais e SQL
 -   📊 Dashboards e análise de dados com Power BI
--   ⚙️ Programação de baixo nível e algoritmos em C e C++
--   🕸️ Teoria dos grafos e estruturas de dados
-
+  
 ---
 
 ## 🛠️ Tech Stack
